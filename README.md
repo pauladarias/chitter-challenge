@@ -1,3 +1,20 @@
+### My approach 
+
+```
+As a Maker
+So that I can let people know what I am doing  
+I want to post a message (peep) to chitter
+```
+DOMAIN MODEL :
+```
+|Client |        Controller        |Model  |
+| Maker | ----> post_message ----> |chitter|
+                  (peep)
+
+```
+
+
+
 Chitter Challenge
 =================
 
